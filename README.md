@@ -1,6 +1,6 @@
 ## <--- EL REPOSITORIO PETARDÍFERO --->
 
-#**PetardosTeam** ahora tiene su propio repositorio. Sorprendente, ¿verdad?
+# **PetardosTeam** ahora tiene su propio repositorio. Sorprendente, ¿verdad?
 
 Here are some ideas to get you started:
 
