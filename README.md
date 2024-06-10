@@ -1,8 +1,8 @@
 # <--- EL REPOSITORIO PETARDÍFERO --->
 
-## **PetardosTeam** ahora tiene su propio repositorio. Sorprendente, ¿verdad?
+**PetardosTeam** ahora tiene su propio repositorio. Sorprendente, ¿verdad?
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
