@@ -1,6 +1,6 @@
-## Hi there 👋
+## <--- EL REPOSITORIO PETARDÍFERO --->
 
-##**PetardosTeam/PetardosTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PetardosTeam** ahora tiene su propio repositorio. Sorprendente, ¿verdad?
 
 Here are some ideas to get you started:
 
