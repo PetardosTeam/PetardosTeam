@@ -20,5 +20,6 @@
 <a href="https://github.com/PetardosTeam/PetardosTeam">GitHub del PetardosTeam:</button></form>
 </p>
 </b></p>
+<p>Copyright PetardosTeam™ 2025</p>
 </body>
 </html>
