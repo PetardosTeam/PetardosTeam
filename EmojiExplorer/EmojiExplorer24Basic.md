@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/42c18a7e-e149-4c2b-936e-a690d8280ab9)<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
