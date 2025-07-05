@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<h1>Versión actual: 25 Basic</h1>
+<h1>Emoji Explorer</h1>
 </head>
 
 </body>
