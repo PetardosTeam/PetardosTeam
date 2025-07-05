@@ -17,7 +17,7 @@
 <p><b>- Inicio para abrir este índice.</b></p>
 <a href="https://discord.gg/4CbjKBcpwe">Unite al Discord del PetardosTeam!</a>
 <br> <br>
-<form method="get" action="https://github.com/PetardosTeam/PetardosTeam"><button type="submit">GitHub del PetardosTeam:</button></form>
+<a href="https://github.com/PetardosTeam/PetardosTeam">GitHub del PetardosTeam:</button></form>
 </p>
 </b></p>
 </body>
